@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="biblioteca">Biblioteca</string>
+    <string name="livro_1">Livro 1</string>
+    <string name="livro_2">Livro 2</string>
+    <string name="livro_3">Livro 3</string>
+    <string name="livro_4">Livro 4</string>
+    <string name="livro_5">Livro 5</string>
+    <string name="livro_6">Livro 6</string>
+    <string name="book_image">Imagem do Livro</string>
+</resources>

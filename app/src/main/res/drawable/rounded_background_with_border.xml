@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Borda externa -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#b5cfff" /> <!-- Cor da borda externa (azul claro) -->
+            <corners android:radius="6dp" /> <!-- Raio da borda arredondada -->
+            <padding android:bottom="2dp" android:top="2dp" android:left="2dp" android:right="2dp" />
+        </shape>
+    </item>
+
+    <!-- Fundo interno -->
+    <item android:left="4dp" android:right="4dp" android:top="4dp" android:bottom="4dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#0000FF" /> <!-- Cor do fundo interno (azul escuro) -->
+            <corners android:radius="6dp" /> <!-- Raio do fundo arredondado interno -->
+        </shape>
+    </item>
+</layer-list>
